@@ -2,3 +2,7 @@
 *.swp
 .idea/
 .vscode/
+Thumbs.db
+*.swo
+*~
+.env

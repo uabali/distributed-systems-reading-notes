@@ -45,6 +45,8 @@ notes/
   02-k8s-ray-gpu-scheduling.md
 README.md
 LICENSE
+.editorconfig
+.gitignore
 ```
 
 ## License
